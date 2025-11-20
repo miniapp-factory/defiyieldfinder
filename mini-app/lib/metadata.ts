@@ -1,3 +1,13 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "DeFi Yield Finder";
+export const description = `DeFi Yield Finder is a Mini App that helps users discover the best yield opportunities across decentralized finance protocols. Compare staking, farming, and lending rates in real time to maximize returns. Receive notifications for high-yield opportunities and stay informed on changing market conditions.
+
+Key Features:
+ • Real-time tracking of staking, farming, and lending rates
+ • Comparison of yields across multiple DeFi protocols
+ • Notifications for top yield opportunities
+ • Historical performance charts and trend analysis
+ • User-friendly dashboard for portfolio optimization
+
+Use Case:
+Perfect for DeFi enthusiasts and investors who want to make informed decisions and maximize returns without manually checking multiple protocols.`;
 export const url = process.env.NEXT_PUBLIC_URL;
